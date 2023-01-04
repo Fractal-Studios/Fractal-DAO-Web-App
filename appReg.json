@@ -1,0 +1,11 @@
+{
+   "appReg":{
+      "app":[
+         {
+			"appID":"1",
+            "name":"ExampleAPP",
+            "appFile":"https://github.com/whatwg/html/blob/main/404.html",
+         }
+      ]
+   }
+}
